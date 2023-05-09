@@ -6,6 +6,6 @@ media
 
 env
 
-db.sqlite3
+*.sqlite3
 
 proyecto/static/portfolio
